@@ -1,3 +1,4 @@
 [submodule "git-course-submodule"]
 	path = git-course-submodule
 	url = https://github.com/juaningr/git-course-submodule
+	branch = main
